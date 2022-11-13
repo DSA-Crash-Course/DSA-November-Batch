@@ -1,6 +1,6 @@
 # Assignment 2
 
-### Note : <strong>Make sure to create a branch called assignment-2 before submission</strong>
+### Note : <strong>Make sure to create a branch called assignment-2 before starting your work</strong>
 ```
 git checkout -b assignment-2
 ```
@@ -13,12 +13,6 @@ git checkout -b assignment-2
 - Prompt
 - Hoisting
 - Type Casting
-
-## Remember to Create a new branch before starting your work
-
-```
-git checkout -b assignment-2
-```
 
 ## Tasks :
 
