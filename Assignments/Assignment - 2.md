@@ -14,6 +14,12 @@ git checkout -b assignment-2
 - Hoisting
 - Type Casting
 
+## Remember to Create a new branch before starting your work
+
+```
+git checkout -b assignment-2
+```
+
 ## Tasks :
 
 1. Create a Javascript file called app-2.js.
@@ -24,15 +30,11 @@ git checkout -b assignment-2
 
 ## Submission :
 
-```
-git checkout -b assignment-2
-```
-
 
 ```
 git add .
-git commit -m "submitting assignment 1. completed <> tasks out of 5"
-git push origin assignment-1
+git commit -m "submitting assignment 2. completed {} tasks out of 5"
+git push origin assignment-2
 ```
 
 - Congratulations! You have submitted your second assignment!
