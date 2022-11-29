@@ -1,0 +1,29 @@
+# Assignment 3
+
+### Note : <strong>Make sure to create a branch called dsa-solution before submission</strong>
+```
+git checkout -b dsa-solution
+```
+## Pre-Reads :
+
+- Arrays
+- Sorting
+- Two Pointers
+- Loops
+- Conditionals
+
+## Tasks :
+
+1. Create a Javascript file called app.js.
+2. Write a program to find if two numbers add up to a target third number.
+3. Write a program to find the maximum sum subarray
+
+## Submission :
+
+```
+git add .
+git commit -m "submitting assignment 1. completed <> tasks out of 5"
+git push origin assignment-1
+```
+
+- Congratulations! You have submitted your third assignment!
